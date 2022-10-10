@@ -1,6 +1,6 @@
 ### Hi there, I'm Svetlin 👋
 
-## I,m a Developer 
+## I'm a Developer 
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other developers
