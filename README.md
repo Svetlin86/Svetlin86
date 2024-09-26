@@ -4,7 +4,6 @@
 
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Learn more about Cloud Native Development
-- ⚡ Fun fact: I love driving my V8 HEMI 
 
 ### Connect with me:
 
