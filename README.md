@@ -3,7 +3,6 @@
 ## I'm a Java Software Developer 
 
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learn more about Cloud Native Development
 
 ### Connect with me:
 
